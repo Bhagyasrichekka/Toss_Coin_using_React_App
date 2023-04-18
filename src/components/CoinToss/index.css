@@ -1,0 +1,48 @@
+/* Write your CSS here */
+.toss-img {
+  height: 50%;
+  width: 50%;
+  margin: 10px;
+}
+.bg {
+  background-image: linear-gradient(to left, #e2a139, #f9d423);
+  height: 100vh;
+  padding: 20px;
+}
+.card {
+  background-color: white;
+  width: 400px;
+  border-radius: 15px;
+  margin: auto;
+  padding: 40px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.items {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+  width: 50vh;
+}
+
+.toss-btn {
+  height: 40px;
+  width: 130px;
+  border-style: none;
+  background-color: #f9d423;
+  color: #a35200;
+  border-radius: 10px;
+  margin: auto;
+  font-weight: bold;
+  margin: 5px;
+}
+h1 {
+  color: #a35200;
+}
+p {
+  font-weight: bold;
+}
